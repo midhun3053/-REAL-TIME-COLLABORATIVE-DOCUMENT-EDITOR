@@ -124,3 +124,9 @@ self.addEventListener('fetch', event => {
 ## Conclusion
 
 Progressive Web Applications are the future of web development, offering a seamless and enhanced user experience across multiple devices and platforms. By leveraging the power of modern web technologies, PWAs provide the best of both web and mobile applications.
+
+
+
+## OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/c541a682-cd1c-4aec-9b6a-6ec019d0d7bc)
